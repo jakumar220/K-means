@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\centroid.h(15): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\centroid.h(16): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\clustering.h(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\clustering.h(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\clustering.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\clustering.h(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\saveout.h(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\source.cpp(38): warning C4101: 'le': unreferenced local variable
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\source.cpp(47): warning C4101: 'le': unreferenced local variable
+  Projekt.vcxproj -> C:\Users\Kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\Projekt\Projekt\Debug\Projekt.exe

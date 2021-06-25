@@ -1,0 +1,23 @@
+﻿  Source.cpp
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\centroid.h(15): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\centroid.h(16): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\clustering.h(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\clustering.h(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\clustering.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\clustering.h(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\saveout.h(14): warning C4018: '<': signed/unsigned mismatch
+  verification.cpp
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\verification.cpp(7): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+  Generating code
+c:\users\kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\projekt\projekt\projekt\verification.cpp(59): warning C4715: 'ver_arg': not all control paths return a value
+  All 423 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Projekt.vcxproj -> C:\Users\Kuba\source\repos\polsl-aei-pk2-tele\3cebed9b-gr02-repo\Projekt\Projekt\Release\Projekt.exe

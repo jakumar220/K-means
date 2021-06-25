@@ -1,0 +1,1 @@
+Projekt.exe -i dane.txt, -k 4
